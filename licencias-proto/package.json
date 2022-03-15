@@ -2,7 +2,7 @@
   "name": "licencias-proto",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://carolineat.github.io/LicenciasProto",
+  "homepage": "https://carolineat.github.io/LicenciasProto/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
